@@ -1,6 +1,4 @@
-package day02;
-
-import java.util.Scanner;
+package basic.day02;
 
 public class d205 {
 
